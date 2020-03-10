@@ -1,0 +1,11 @@
+html {
+    background-image: url("shutterstock_555596653.jpg");
+    /*background-position: center;*/
+    background-size: cover;
+    /*background-repeat: no-repeat;*/
+}
+
+body {
+    color: midnightblue;
+    font-size: xx-large;
+}
